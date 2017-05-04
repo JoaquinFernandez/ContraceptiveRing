@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "539206385653",
+    "firebase_url": "https://contraceptivering-f245e.firebaseio.com",
+    "project_id": "contraceptivering-f245e",
+    "storage_bucket": "contraceptivering-f245e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539206385653:android:84ea7c3bc8bab199",
+        "android_client_info": {
+          "package_name": "com.jsolutionssp.ring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539206385653-osopphbdj4scrv42rihpp5qdebfuqn0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsolutionssp.ring",
+            "certificate_hash": "bd5e81ba4ef2bc4e40695ca81797c52e7cd816f5"
+          }
+        },
+        {
+          "client_id": "539206385653-krp7jk0tijpka2nh2cqnqodupettsgv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjTAGBLAFwo3qFizzv4v5fS3XhO2Dn-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539206385653-krp7jk0tijpka2nh2cqnqodupettsgv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
