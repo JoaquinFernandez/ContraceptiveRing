@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jsolutionssp.ring"
-    android:versionCode="4"
-    android:versionName="1.2" >
+    android:versionCode="5"
+    android:versionName="1.3" >
 
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.VIBRATE" />
@@ -11,15 +11,6 @@
     <!-- Used for google analytics -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
-    <!-- Used for install referrer tracking -->
-    <receiver
-        android:exported="true"
-        android:name="com.google.android.apps.analytics.AnalyticsReceiver" >
-        <intent-filter >
-            <action android:name="com.android.vending.INSTALL_REFERRER" />
-        </intent-filter>
-    </receiver>
 
     <uses-sdk android:minSdkVersion="4" />
 

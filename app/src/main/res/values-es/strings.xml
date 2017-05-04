@@ -82,6 +82,7 @@
 	<string name="button_no">Cancelar</string>
 	<string name="menu_about">About</string>
 	<string name="menu_exit">Salir</string>
+	<string name="menu_info">Info</string>
 	<string name="alarm_info_toast">En la otra pestaña puedes configurar tus alarmas</string>
 	<string name="notification_bar_cycle_text1">¡Dentro de </string>
 	<string name="notification_bar_cycle_text2"> días tienes que ponerte el anillo!</string>
@@ -93,4 +94,5 @@
 	<string name="notification_bar_put_ring_text">¡Ponte el anillo!</string>
 	<string name="notification_bar_remove_ring_text">¡Quitate el anillo!</string>
 	<string name="notification_bar_buy_text">Recuerda ir a comprarlo</string>
+	<string name="banner_ad_unit_id">ca-app-pub-8654030018694792/6888917463</string>
 </resources>

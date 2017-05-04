@@ -84,6 +84,7 @@
     <string name="button_no">Cancelar</string>
     <string name="menu_about">About</string>
     <string name="menu_exit">Exit</string>
+    <string name="menu_info">Info</string>
     <string name="alarm_info_toast">In altra finestra è possibile configurare allarmi</string>
     <string name="notification_bar_cycle_text1">In </string>
     <string name="notification_bar_cycle_text2">Giorno inizia l\'anello!</string>
@@ -95,5 +96,6 @@
     <string name="notification_bar_put_ring_text">Mettere l\'anello!</string>
     <string name="notification_bar_remove_ring_text">Rimuovere l\'anello!</string>
 	<string name="notification_bar_buy_text">Non dimenticare di acquistare l\'anello</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8654030018694792/6888917463</string>
 
 </resources>
